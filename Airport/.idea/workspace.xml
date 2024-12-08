@@ -28,7 +28,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "https://github.com/Ruyman-Garcia-Martin-05/Practica-LAB.git",
+    "url": "https://github.com/Ruyman-Garcia-Martin-05/Practica7_LAB.git",
     "accountId": "9f1d04f7-d84c-497b-b5e1-92b1519fa4ac"
   }
 }]]></component>
@@ -59,7 +59,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Ruymán/Desktop/LAB/P7Probandp/Practica-LAB/Airport",
+    "last_opened_file_path": "C:/Users/Ruymán/Desktop/LAB/EntregaPractica7/Practica7_LAB/Airport",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -140,6 +140,7 @@
       <updated>1733595283423</updated>
       <workItem from="1733595284418" duration="11325000" />
       <workItem from="1733665977736" duration="666000" />
+      <workItem from="1733669996206" duration="1383000" />
     </task>
     <servers />
   </component>
